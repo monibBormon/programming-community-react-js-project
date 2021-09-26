@@ -11,6 +11,7 @@ const Cart = (props) => {
         name = name + leader.name + ', ';
     }
     return (
+        // cart functionality added 
         <div className='cart shadow py-4 px-2'>
             <h3 className='fs-6 fw-bold'>Comminity Total Income</h3>
             <table>

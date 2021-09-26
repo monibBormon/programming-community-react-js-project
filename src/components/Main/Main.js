@@ -5,18 +5,21 @@ import Leaders from './Leaders/Leaders';
 const Main = () => {
     const [leaders, setLeaders] = useState([])
     const [cart, setCart] = useState([])
+
     // load data 
     useEffect(() => {
         fetch('./community.json')
             .then(res => res.json())
             .then(data => setLeaders(data))
     }, [])
+
     // handele addToIncome button
     const handleAddToIncome = (income) => {
         const newCart = [...cart, income]
         setCart(newCart)
     }
     return (
+        // leader and cart main page
         <div>
             <div className="main-area py-3">
                 <div className="container-fluid">

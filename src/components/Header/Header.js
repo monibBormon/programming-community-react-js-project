@@ -2,6 +2,7 @@ import React from 'react';
 
 const Header = () => {
     return (
+        // header area start 
         <div>
             <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
                 <div className="container">

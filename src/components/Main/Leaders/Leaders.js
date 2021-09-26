@@ -5,6 +5,7 @@ const Leaders = (props) => {
     // destructuring for easy to use
     const { name, img, organization, income, languages } = props.leader;
     return (
+        // single leader information added
         <div class="col">
             <div class="card h-100 shadow single-leader text-center">
                 <img className='mx-auto m-3' src={img} alt="leader" />
