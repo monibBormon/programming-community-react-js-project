@@ -4,6 +4,7 @@
         "name": "Jhankar Mahbub",
         "organization": "Programming hero",
         "income": 33000,
+        "designation": "Software Engineer",
         "languages": "python, javascript",
         "img": "https://scontent.fcgp17-1.fna.fbcdn.net/v/t1.6435-9/120894323_197059875119957_6342630029659575816_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=sqvAqWLpiogAX9PS1NL&_nc_ht=scontent.fcgp17-1.fna&oh=3c3e3d45fbcb7c9baf43a92a7f9c2b29&oe=61750500"
     },
@@ -12,6 +13,7 @@
         "name": "Sumit Saha",
         "organization": "Analyzen",
         "income": 43000,
+        "designation": "Web Programmer",
         "languages": "php, javascript",
         "img": "https://scontent.fcgp17-1.fna.fbcdn.net/v/t1.6435-9/212356901_132643268999751_4605603988974057447_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=_XdD37bQYwEAX-AijLF&_nc_ht=scontent.fcgp17-1.fna&oh=630d27ebdc0707b10a8c718efc3f83ff&oe=617438F5"
     },
@@ -20,6 +22,7 @@
         "name": "Anisul Islam",
         "organization": "Anisul Islam",
         "income": 21309,
+        "designation": "Web Developer",
         "languages": "dart, javascript",
         "img": "https://scontent.fcgp17-1.fna.fbcdn.net/v/t1.18169-9/22552660_1981536015462273_7209477896376955989_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=174925&_nc_ohc=bS-zdFvNVWcAX9UrAVD&_nc_ht=scontent.fcgp17-1.fna&oh=8135d4b9ff6f0c50be08b46d4023c34f&oe=61761F06"
     },
@@ -28,6 +31,7 @@
         "name": "HM Nayem",
         "organization": "Stack learner",
         "income": 49210,
+        "designation": "Js Developer",
         "languages": "javascript",
         "img": "https://scontent.fcgp17-1.fna.fbcdn.net/v/t1.6435-9/124281575_1292687547797102_3502360713077342102_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=174925&_nc_ohc=YXyKKA3szN4AX-YSdkX&_nc_ht=scontent.fcgp17-1.fna&oh=6a4d3e4bd3de75a668c9be2440616d68&oe=61732FA3"
     },
@@ -36,6 +40,7 @@
         "name": "Rabbil Hasan",
         "organization": "Learn With Rabbil Hasan",
         "income": 54211,
+        "designation": "Software Engineer",
         "languages": "django, javascript",
         "img": "https://scontent.fcgp17-1.fna.fbcdn.net/v/t1.6435-9/67201427_2570309876359571_8930275643145322496_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=174925&_nc_ohc=74OebP7P_eoAX_Yhj9h&_nc_ht=scontent.fcgp17-1.fna&oh=bef42554bb67f5ec05f6e9f9c1ace5ff&oe=6176B260"
     },
@@ -44,6 +49,7 @@
         "name": "Rasel Ahmed",
         "organization": "RR Foundation",
         "income": 90000,
+        "designation": "Web Developer",
         "languages": "php, javascript",
         "img": "https://scontent.fcgp17-1.fna.fbcdn.net/v/t1.6435-9/242726459_4729960870355421_2570789320038666707_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=mkd4L_Dw6nQAX8T4Alo&tn=kH5sfa6-s8cLDR-R&_nc_ht=scontent.fcgp17-1.fna&oh=bc6e93b2b9103ad447c67e01b38c5f7a&oe=61758164"
     },
@@ -52,6 +58,7 @@
         "name": "Zonayed Ahmed",
         "organization": "Code with Zonayed",
         "income": 30032,
+        "designation": "Full-Stack Developer",
         "languages": "javascript",
         "img": "https://scontent.fcgp17-1.fna.fbcdn.net/v/t1.6435-9/73312682_2587825227963483_4676200447302696960_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=174925&_nc_ohc=b5Bbi6uJWpQAX_aNwFl&_nc_ht=scontent.fcgp17-1.fna&oh=4ec559738c815c3598c88b255de42cbd&oe=61766E6A"
     },
@@ -60,6 +67,7 @@
         "name": "Hasin Hayder",
         "organization": "Learn with Hasin Hayder",
         "income": 76300,
+        "designation": "Web Developer",
         "languages": "php, javascript",
         "img": "https://scontent.fcgp17-1.fna.fbcdn.net/v/t1.6435-9/84550011_10157301978154633_7003699987292880896_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=174925&_nc_ohc=tpUh6AGLnUYAX8O1b2l&tn=kH5sfa6-s8cLDR-R&_nc_ht=scontent.fcgp17-1.fna&oh=eba93175b19599c32af1dba21f1839ad&oe=61751B76"
     },
@@ -68,6 +76,7 @@
         "name": "Foyzul Karim",
         "organization": "Foyzul Karim",
         "income": 65200,
+        "designation": "Software Engineer",
         "languages": "c, c++",
         "img": "https://scontent.fcgp17-1.fna.fbcdn.net/v/t1.6435-9/136134480_10161210311472837_758109163554594028_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=zCG5ytZ1hBQAX_b6CJT&_nc_ht=scontent.fcgp17-1.fna&oh=c017ec4c777f15da8f7e606dff1fb4e3&oe=617324CB"
     },
@@ -76,6 +85,7 @@
         "name": "Saydur Rahman Setu",
         "organization": "Js Bangladesh",
         "income": 18004,
+        "designation": "Web Developer",
         "languages": "php, javascript",
         "img": "https://scontent.fcgp17-1.fna.fbcdn.net/v/t1.6435-9/78434638_2762794107148882_8314935923460538368_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=il-u7b1g-ikAX93lMUu&tn=kH5sfa6-s8cLDR-R&_nc_ht=scontent.fcgp17-1.fna&oh=e37c8ae7aefebf726372dc4424b169c5&oe=61769262"
     },
@@ -84,6 +94,7 @@
         "name": "Rifat M Haq",
         "organization": "Instructory",
         "income": 10000,
+        "designation": "Ui & Ux Designer",
         "languages": "Ui & Ux Design",
         "img": "https://scontent.fcgp17-1.fna.fbcdn.net/v/t1.6435-9/241780368_4282420208462210_9084057373305105231_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=OOXbCES70FUAX8_f9U1&_nc_ht=scontent.fcgp17-1.fna&oh=fa6723562d2f824de765ea3877226819&oe=6175FE3E"
     },
@@ -92,6 +103,7 @@
         "name": "Mohammad Toriqul Mowla Sujon",
         "organization": "Soft-Tech It",
         "income": 10000,
+        "designation": "Web Programmer",
         "languages": "python, php",
         "img": "https://scontent.fcgp17-1.fna.fbcdn.net/v/t1.6435-9/58749364_848956865442259_5261934927351382016_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=174925&_nc_ohc=lU6jgEYOaCgAX8Q1CBe&_nc_ht=scontent.fcgp17-1.fna&oh=e1c118eb275f446d851d92c52f2be934&oe=6175ACD6"
     }
