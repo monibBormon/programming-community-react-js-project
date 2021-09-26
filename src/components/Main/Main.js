@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Cart from '../Cart/Cart';
-import Leaders from './Leaders/Leaders';
+import Leaders from '../Leaders/Leaders';
 
 const Main = () => {
     const [leaders, setLeaders] = useState([])
